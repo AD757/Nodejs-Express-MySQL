@@ -1,4 +1,5 @@
-# Node.js Rest APIs with Express & MySQL example
+# Node.js Rest APIs with Express & MySQL
+* Practicing purpose and simple example exercise.
 
 
 ## Project setup
